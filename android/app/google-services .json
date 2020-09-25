@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795606106546",
+    "firebase_url": "https://water-u-gonna-do.firebaseio.com",
+    "project_id": "water-u-gonna-do",
+    "storage_bucket": "water-u-gonna-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795606106546:android:96d4fc4a228f9a6a95e4ab",
+        "android_client_info": {
+          "package_name": "com.akromish.water_u_gonna_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795606106546-j7j14le9muikmm3prf4dg00sv4b66n18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbZGEGKAXCE4EDqwkW_grUUXKjiOGCTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795606106546-j7j14le9muikmm3prf4dg00sv4b66n18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
